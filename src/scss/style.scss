@@ -1,0 +1,33 @@
+$green: #7fba23;
+$width: 150px;
+$radius: 4px;
+
+$green: #7fba23;
+$width: 150px;
+$radius: 4px;
+
+$font: 'Lilita One', cursive;
+
+@import "default-spinner";
+@import "van-loader";
+
+body {
+  text-align: center;
+  background-color: #eee;
+	font-family: $font;
+}
+
+* {
+  -webkit-box-sizing: border-box;
+     -moz-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.container {
+	width: 200px;
+  margin: 0 auto;
+  position: relative;
+	height: 200px;
+	padding-top: 50px;
+	text-align:center;
+}
