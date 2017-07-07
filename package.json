@@ -1,7 +1,7 @@
 {
   "name": "spinner",
   "version": "1.0.0",
-  "description": "Spinner competition build",
+  "description": "Spinner",
   "main": "src/index.js",
   "scripts": {
     "build": "webpack",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tjcafferkey/spinner.git"
+    "url": "git+https://github.com/tommads/spinner.git"
   },
   "author": "Tom Maddocks",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tjcafferkey/spinner/issues"
+    "url": "https://github.com/tommads/spinner/issues"
   },
-  "homepage": "https://github.com/tjcafferkey/spinner#readme",
+  "homepage": "https://github.com/tommads/spinner#readme",
   "devDependencies": {
     "babel-core": "6.23.1",
     "babel-loader": "6.4.0",
